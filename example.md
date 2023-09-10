@@ -24,9 +24,9 @@ bash render_table.sh table.yaml table.png -a l,c -w 2,1 -W 200
 
 Table with text as text. Some stuff in bold.
 
-```{.list-image widths=2,1 aligns=l,c width=200}
+:::{.list-image widths=2,1 aligns=l,c width=200}
 - - **row 1, column 1**
   - **row 1, column 2**
 - - row 2, column 1
   - row 2, column 2
-```
+:::
